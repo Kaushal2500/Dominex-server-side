@@ -13,12 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/kishukumar07/Dominex-server-side.git"
   },
-  "author": "Niket",
+  "author": "Shivam Mishra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kishukumar07/Dominex-server-side/issues"
+    "url": "to be worked on"
   },
-  "homepage": "https://github.com/kishukumar07/Dominex-server-side#readme",
+  "homepage": " to be worked on",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "bcrypt": "^6.0.0",
