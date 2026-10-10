@@ -98,7 +98,7 @@ src/
 ### Installation
 
 ```bash
-git clone https://github.com/kishukumar07/Dominex-server-side.git
+git clone  "updated soon"
 cd Dominex-server-side
 npm install
 ```
@@ -235,9 +235,9 @@ See `.env.sample` for the full list with descriptions.
 
 ## Author
 
-**Kishu Kumar**
+**Shivam Mishra**
 
-- GitHub: [@kishukumar07](https://github.com/kishukumar07)
+- GitHub: [@Shivammishra2005](https://github.com/Shivammishra2005)
 
 ---
 
