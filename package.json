@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kishukumar07/Dominex-server-side.git"
+    "url": "git+https://github.com/Kaushal2500/Dominex-server-side.git"
   },
-  "author": "Shivam Mishra",
+  "author": "Kaushal Mishra",
   "license": "ISC",
   "bugs": {
-    "url": "to be worked on"
+    "url": "stt"
   },
   "homepage": " to be worked on",
   "dependencies": {

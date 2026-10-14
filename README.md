@@ -237,7 +237,7 @@ See `.env.sample` for the full list with descriptions.
 
 **Shivam Mishra**
 
-- GitHub: [@Shivammishra2005](https://github.com/Shivammishra2005)
+- GitHub: [@Kaushal2500](https://github.com/Kaushal2500)
 
 ---
 
